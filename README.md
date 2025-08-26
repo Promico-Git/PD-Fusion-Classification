@@ -96,8 +96,8 @@ The project follows a structured methodology:
 2.  **Run the scripts**:
     * To train and evaluate the unimodal models:
         ```
-        python "Audio Classification Model.py"
-        python "MRI Classification Model.py"
+        python "Audio Classification Models.py"
+        python "MRI Classification Models.py"
         ```
     * To train and evaluate the feature-fusion model:
         ```
